@@ -1,0 +1,5 @@
+{
+  "name": "Comanda Digital",
+  "description": "Sistema completo de gestão para restaurantes: cardápio dinâmico, controle de 15 mesas e tela de cozinha em tempo real.",
+  "requestFramePermissions": []
+}

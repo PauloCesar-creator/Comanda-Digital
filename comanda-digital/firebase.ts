@@ -6,7 +6,7 @@ import { getDatabase } from 'firebase/database';
 const firebaseConfig = {
   apiKey: "AIzaSyBV_E8868Dw7Pvo41DkYmoRy55bZtW7wzU",
   authDomain: "comandadigital-e730e.firebaseapp.com",
-  databaseURL: "https://console.firebase.google.com/project/comandadigital-e730e/database/comandadigital-e730e-default-rtdb/data/~2F",
+  databaseURL: "https://comandadigital-e730e-default-rtdb.firebaseio.com/",
   projectId: "comandadigital-e730e",
   storageBucket: "comandadigital-e730e.firebasestorage.app",
   messagingSenderId: "101301917939",
